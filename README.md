@@ -8,11 +8,11 @@
 - `shutdown.py`: 「[Raspberry Pi に電源ボタンを付ける][7]」を参照
 - `tree.py`: 「[Raspberry Pi のクリスマス ツリー][8]」を参照
 
- [1]: https://gitpress.io/u/1391/display-bitcoin-price-with-raspberry-pi
+ [1]: https://asaitoshiya.com/display-bitcoin-price-with-raspberry-pi
  [2]: https://feh.finalrewind.org/
- [3]: https://gitpress.io/u/1391/run-program-with-button
- [4]: https://gitpress.io/u/1391/blinking-led-on-raspberry-pi-javascript
- [5]: https://gitpress.io/u/1391/blinking-led-on-raspberry-pi
- [6]: https://gitpress.io/u/1391/turn-on-led-with-pir-sensor
- [7]: https://gitpress.io/u/1391/adding-power-button-to-raspberry-pi
- [8]: https://gitpress.io/u/1391/christmas-tree-for-raspberry-pi
+ [3]: https://asaitoshiya.com/run-program-with-button
+ [4]: https://asaitoshiya.com/blinking-led-on-raspberry-pi-javascript
+ [5]: https://asaitoshiya.com/blinking-led-on-raspberry-pi
+ [6]: https://asaitoshiya.com/turn-on-led-with-pir-sensor
+ [7]: https://asaitoshiya.com/adding-power-button-to-raspberry-pi
+ [8]: https://asaitoshiya.com/christmas-tree-for-raspberry-pi
