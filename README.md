@@ -4,6 +4,7 @@
 - `launcher.py`: 「[ボタンでプログラムを実行する][3]」を参照
 - `ledblink.js`: 「[Raspberry Pi で LED を点滅させる (JavaScript)][4]」を参照
 - `ledblink.py`: 「[Raspberry Pi で LED を点滅させる][5]」を参照
+- `lockcursor.bat`: デュアル ディスプレイでメイン ディスプレイにマウス カーソルをロックまたはアンロックする
 - `pir.py`: 「[人感センサーで LED を点灯させる][6]」を参照
 - `shutdown.py`: 「[Raspberry Pi に電源ボタンを付ける][7]」を参照
 - `tree.py`: 「[Raspberry Pi のクリスマス ツリー][8]」を参照
