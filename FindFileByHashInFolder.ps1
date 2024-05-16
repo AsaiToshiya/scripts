@@ -1,3 +1,5 @@
+# 使い方: .\FindFileByHashInFolder.ps1 <検索されるフォルダのパス> <検索するファイルのパス>
+
 param(
     [string]$targetFolder,
     [string]$targetFile
