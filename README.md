@@ -1,13 +1,16 @@
+# scripts
+
+自作スクリプトのコレクション。
+
 - `bitcoin_ticker.py`: 「[Raspberry Pi でビットコインの価格を表示する][1]」を参照
 - `digital_photo_frame.sh`: デジタル フォト フレーム。`mount` コマンドと [feh][2]、`display_output_switch.py` を実行する
 - `display_output_switch.py`: 人感センサーで画面出力を切り替える
-- `FindFileByHashInFolder.ps1`: ファイルをハッシュ値で検索する
+- `FindFileByHashInFolder.ps1`
 - `launcher.py`: 「[ボタンでプログラムを実行する][3]」を参照
 - `ledblink.js`: 「[Raspberry Pi で LED を点滅させる (JavaScript)][4]」を参照
 - `ledblink.py`: 「[Raspberry Pi で LED を点滅させる][5]」を参照
 - `lockcursor.bat`: デュアル ディスプレイでメイン ディスプレイにマウス カーソルをロックまたはアンロックする
 - `pir.py`: 「[人感センサーで LED を点灯させる][6]」を参照
-- `send_ctrl_r.ps1`: 3 分おきに `Ctrl+R` を入力 (送信) する
 - `shutdown.py`: 「[Raspberry Pi に電源ボタンを付ける][7]」を参照
 - `tree.py`: 「[Raspberry Pi のクリスマス ツリー][8]」を参照
 - `video_capture.sh`: `libcamera-vid` による動画撮影
