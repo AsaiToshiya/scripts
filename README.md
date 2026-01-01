@@ -2,6 +2,8 @@
 
 自作スクリプトのコレクション。
 
+## リスト
+
 - `bitcoin_ticker.py`: 「[Raspberry Pi でビットコインの価格を表示する][1]」を参照
 - `digital_photo_frame.sh`: デジタル フォト フレーム。`mount` コマンドと [feh][2]、`display_output_switch.py` を実行する
 - `display_output_switch.py`: 人感センサーで画面出力を切り替える
