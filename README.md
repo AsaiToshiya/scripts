@@ -25,3 +25,8 @@
  [6]: https://asaitoshiya.com/turn-on-led-with-pir-sensor
  [7]: https://asaitoshiya.com/adding-power-button-to-raspberry-pi
  [8]: https://asaitoshiya.com/christmas-tree-for-raspberry-pi
+
+
+## ライセンス
+
+CC0 1.0。`LICENSE.txt` を参照。
